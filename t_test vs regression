@@ -1,0 +1,41 @@
+#installing packages
+install.packages("stats")
+install.packages("GLMsData")
+library(GLMsData)
+library(stats)
+
+#veri setini yükleme
+data(lungcap)
+summary(lungcap)
+
+#değişken atama
+x <- lungcap$Smoke
+y <- lungcap$FEV
+class(x)
+class(y)
+
+#varsayım kontrolü normallik
+by(y, x, shapiro.test)
+#p(0.14)>0.05 <-> normal dağılıma uygun
+#p(0,00)<0.05 <-> normal dağılıma uygun değil
+# histogram
+by (y, x, hist)
+#asimetri
+install.packages("moments")
+library(moments)
+by(y, x, skewness)
+by(y, x, kurtosis)
+
+#t test
+#h0 sigara içenlerin akciğer kapasitesi=içmeyenlerin akciğer kapasitesi
+#h0: sigara içen ve içmeyenlerin akciğer kapasiteleri arasında anlamlı bir fark yoktur.
+t.test(x,y, conf.level=0.99)
+t.test(lungcap$Smoke==0,lungcap$Smoke==1, conf.level=0.99)
+
+#regresyon
+#kapasite=b0+b1*sigara
+reg <- lm(formula=y~x, data=lungcap)
+reg
+summary(reg)
+summary(reg)$coef
+#kapasite=2.56+0.71*sigara(0 v 1)
