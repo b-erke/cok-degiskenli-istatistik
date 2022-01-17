@@ -9,16 +9,16 @@ veri setlerinin adını hafta olarak güncelledim bu sebeple notebookta da günc
 
 Teşekkürler. 🤗
 
-Hafta	 Konu Başlıkları
-1	     Student-t testi ve Basit Regresyon Analizi
-2	     Çoklu Regresyon Analizi
-3	     ANOVA-ANCOVA
-4	     Diskriminant Analizi
-5	     Kısmi Korelasyon Analizi
-6	     Yol Analizi
-7	     MANOVA
-8 	   MANCOVA
-9 	   Konjoint Analizi
-10	   Kümeleme Analizi
-11	   Doğrulayıcı Faktör Analizi
-12	   Yapısal Eşitlik Modelleri
+- Hafta	 Konu Başlıkları
+- 1	     Student-t testi ve Basit Regresyon Analizi
+- 2	     Çoklu Regresyon Analizi
+- 3	     ANOVA-ANCOVA
+- 4	     Diskriminant Analizi
+- 5	     Kısmi Korelasyon Analizi
+- 6	     Yol Analizi
+- 7	     MANOVA
+- 8 	   MANCOVA
+- 9 	   Konjoint Analizi
+- 10	   Kümeleme Analizi
+- 11	   Doğrulayıcı Faktör Analizi
+- 12	   Yapısal Eşitlik Modelleri
