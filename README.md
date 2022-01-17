@@ -9,15 +9,15 @@ veri setlerinin adını hafta olarak güncelledim bu sebeple notebookta da günc
 
 Teşekkürler. 🤗
 
-- 1. Hafta	     Student-t testi ve Basit Regresyon Analizi
-- 2. Hafta	     Çoklu Regresyon Analizi
-- 3. Hafta	     ANOVA-ANCOVA
-- 4. Hafta	     Diskriminant Analizi
-- 5. Hafta	     Kısmi Korelasyon Analizi
-- 6. Hafta	     Yol Analizi
-- 7. Hafta	     MANOVA
-- 8. Hafta 	   MANCOVA
-- 9. Hafta 	   Konjoint Analizi
-- 10. Hafta	   Kümeleme Analizi
-- 11. Hafta	   Doğrulayıcı Faktör Analizi
-- 12. Hafta	   Yapısal Eşitlik Modelleri
+* 1. Hafta	     Student-t testi ve Basit Regresyon Analizi
+* 2. Hafta	     Çoklu Regresyon Analizi
+* 3. Hafta	     ANOVA-ANCOVA
+* 4. Hafta	     Diskriminant Analizi
+* 5. Hafta	     Kısmi Korelasyon Analizi
+* 6. Hafta	     Yol Analizi
+* 7. Hafta	     MANOVA
+* 8. Hafta 	   MANCOVA
+* 9. Hafta 	   Konjoint Analizi
+* 10. Hafta	   Kümeleme Analizi
+* 11. Hafta	   Doğrulayıcı Faktör Analizi
+* 12. Hafta	   Yapısal Eşitlik Modelleri
