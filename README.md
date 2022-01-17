@@ -9,7 +9,7 @@ veri setlerinin adını hafta olarak güncelledim bu sebeple notebookta da günc
 
 Teşekkürler. 🤗
 
-- Hafta	 Konu Başlıkları
+Hafta	   Konu Başlıkları
 - 1	     Student-t testi ve Basit Regresyon Analizi
 - 2	     Çoklu Regresyon Analizi
 - 3	     ANOVA-ANCOVA
